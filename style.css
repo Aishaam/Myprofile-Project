@@ -55,19 +55,7 @@ table, th, td {
     top: 150px;
   }
 
-   /*Contact page*/
-   .form-contact {
-    width: 70%;
-    margin: auto;
-    margin-top: 130px;
-    color: #000;
-}
-input[type=text] {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-}
+   
 #form{
     width: 50vw; margin-left : 25vw;
     text-align: center;
